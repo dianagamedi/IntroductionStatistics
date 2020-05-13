@@ -20,9 +20,9 @@ Notebook `programming_charts.ipynb` contains code to create different plots:
 - Scatter plot
 - Barchart
 
-It uses package `plotting` for drawing plots.
+It uses package `matplotlib` for drawing plots.
 
 
 ## Resources
 [Intro to statistics - Udacity](https://classroom.udacity.com/courses/st101)
-[Plotting package python](https://pypi.org/project/plotting/)
+[Plotting graphs with python](https://www.udacity.com/wiki/plotting-graphs-with-python)
